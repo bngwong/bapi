@@ -1,0 +1,1 @@
+{"Expense":{"Key":"","Volume":835.1999,"N":13},"Prize":{"Key":"","Volume":136.5,"N":5},"LotteryStat":[{"Key":"006","Volume":835.1999,"N":13}],"PlayStat":[{"Key":"houer.zhixuan.kuadu","Volume":1670.3994,"N":26}],"Hour":[{"Key":"12","Volume":576,"N":2},{"Key":"11","Volume":201.6,"N":6},{"Key":"10","Volume":57.6,"N":5}]}

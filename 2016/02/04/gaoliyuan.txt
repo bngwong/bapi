@@ -1,0 +1,1 @@
+{"Expense":{"Key":"","Volume":57.960003,"N":4},"Prize":{"Key":"","Volume":0,"N":0},"LotteryStat":[{"Key":"012","Volume":57.960003,"N":4}],"PlayStat":[{"Key":"houer.zuxuan.fushi","Volume":115.91998,"N":8}],"Hour":[{"Key":"0","Volume":57.960003,"N":4}]}

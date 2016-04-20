@@ -1,0 +1,1 @@
+{"Expense":{"Key":"","Volume":458.94,"N":13},"Prize":{"Key":"","Volume":303.01,"N":8},"LotteryStat":[{"Key":"113","Volume":12.54,"N":2},{"Key":"006","Volume":446.40002,"N":11}],"PlayStat":[{"Key":"renxuaner.zhixuan.fushi","Volume":917.88007,"N":26}],"Hour":[{"Key":"15","Volume":12.54,"N":2},{"Key":"14","Volume":160,"N":5},{"Key":"13","Volume":286.40002,"N":6}]}

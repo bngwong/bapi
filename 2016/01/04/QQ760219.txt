@@ -1,0 +1,1 @@
+{"Expense":{"Key":"","Volume":304.41998,"N":20},"Prize":{"Key":"","Volume":0,"N":0},"LotteryStat":[{"Key":"006","Volume":20,"N":10},{"Key":"002","Volume":284.42,"N":10}],"PlayStat":[{"Key":"qiansan.zhixuan.danshi","Volume":40,"N":20},{"Key":"sanxing.zhixuan.danshi","Volume":568.8401,"N":20}],"Hour":[{"Key":"20","Volume":304.41998,"N":20}]}

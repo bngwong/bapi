@@ -1,0 +1,1 @@
+{"Expense":{"Key":"","Volume":249.8,"N":7},"Prize":{"Key":"","Volume":204.75,"N":3},"LotteryStat":[{"Key":"006","Volume":249.8,"N":7}],"PlayStat":[{"Key":"yixing.dingweidan.fushi","Volume":499.6,"N":14}],"Hour":[{"Key":"20","Volume":213.8,"N":5},{"Key":"19","Volume":36,"N":2}]}
